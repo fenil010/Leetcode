@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0661-image-smoother](https://github.com/fenil010/Leetcode/tree/master/0661-image-smoother) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/fenil010/Leetcode/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1773-count-items-matching-a-rule](https://github.com/fenil010/Leetcode/tree/master/1773-count-items-matching-a-rule) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/fenil010/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0661-image-smoother](https://github.com/fenil010/Leetcode/tree/master/0661-image-smoother) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/fenil010/Leetcode/tree/master/1380-lucky-numbers-in-a-matrix) |
 ## Stack
 |  |
