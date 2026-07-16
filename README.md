@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/fenil010/Leetcode/tree/master/0415-add-strings) |
 | [2485-find-the-pivot-integer](https://github.com/fenil010/Leetcode/tree/master/2485-find-the-pivot-integer) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/fenil010/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/fenil010/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/fenil010/Leetcode/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/fenil010/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/fenil010/Leetcode/tree/master/0344-reverse-string) |
+| [0415-add-strings](https://github.com/fenil010/Leetcode/tree/master/0415-add-strings) |
 | [0443-string-compression](https://github.com/fenil010/Leetcode/tree/master/0443-string-compression) |
 | [0680-valid-palindrome-ii](https://github.com/fenil010/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0890-find-and-replace-pattern](https://github.com/fenil010/Leetcode/tree/master/0890-find-and-replace-pattern) |
@@ -90,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/fenil010/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Simulation
+|  |
+| ------- |
+| [0415-add-strings](https://github.com/fenil010/Leetcode/tree/master/0415-add-strings) |
 <!---LeetCode Topics End-->
