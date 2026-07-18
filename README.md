@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1380-lucky-numbers-in-a-matrix](https://github.com/fenil010/Leetcode/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1528-shuffle-string](https://github.com/fenil010/Leetcode/tree/master/1528-shuffle-string) |
 | [1773-count-items-matching-a-rule](https://github.com/fenil010/Leetcode/tree/master/1773-count-items-matching-a-rule) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/fenil010/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/fenil010/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/fenil010/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3668-restore-finishing-order](https://github.com/fenil010/Leetcode/tree/master/3668-restore-finishing-order) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/fenil010/Leetcode/tree/master/0415-add-strings) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/fenil010/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2485-find-the-pivot-integer](https://github.com/fenil010/Leetcode/tree/master/2485-find-the-pivot-integer) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/fenil010/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/fenil010/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/fenil010/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/fenil010/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Simulation
 |  |
