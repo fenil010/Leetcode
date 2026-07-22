@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0661-image-smoother](https://github.com/fenil010/Leetcode/tree/master/0661-image-smoother) |
 | [0890-find-and-replace-pattern](https://github.com/fenil010/Leetcode/tree/master/0890-find-and-replace-pattern) |
 | [1260-shift-2d-grid](https://github.com/fenil010/Leetcode/tree/master/1260-shift-2d-grid) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/fenil010/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/fenil010/Leetcode/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1528-shuffle-string](https://github.com/fenil010/Leetcode/tree/master/1528-shuffle-string) |
 | [1773-count-items-matching-a-rule](https://github.com/fenil010/Leetcode/tree/master/1773-count-items-matching-a-rule) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/fenil010/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/fenil010/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
 |  |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0661-image-smoother](https://github.com/fenil010/Leetcode/tree/master/0661-image-smoother) |
 | [1260-shift-2d-grid](https://github.com/fenil010/Leetcode/tree/master/1260-shift-2d-grid) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/fenil010/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/fenil010/Leetcode/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/fenil010/Leetcode/tree/master/2428-maximum-sum-of-an-hourglass) |
 ## Stack
