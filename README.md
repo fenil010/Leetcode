@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/fenil010/Leetcode/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/fenil010/Leetcode/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/fenil010/Leetcode/tree/master/0242-valid-anagram) |
 | [0500-keyboard-row](https://github.com/fenil010/Leetcode/tree/master/0500-keyboard-row) |
 | [0890-find-and-replace-pattern](https://github.com/fenil010/Leetcode/tree/master/0890-find-and-replace-pattern) |
 | [2325-decode-the-message](https://github.com/fenil010/Leetcode/tree/master/2325-decode-the-message) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/fenil010/Leetcode/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/fenil010/Leetcode/tree/master/0179-largest-number) |
+| [0242-valid-anagram](https://github.com/fenil010/Leetcode/tree/master/0242-valid-anagram) |
 | [0881-boats-to-save-people](https://github.com/fenil010/Leetcode/tree/master/0881-boats-to-save-people) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/fenil010/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3467-transform-array-by-parity](https://github.com/fenil010/Leetcode/tree/master/3467-transform-array-by-parity) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/fenil010/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/fenil010/Leetcode/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/fenil010/Leetcode/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/fenil010/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/fenil010/Leetcode/tree/master/0344-reverse-string) |
 | [0415-add-strings](https://github.com/fenil010/Leetcode/tree/master/0415-add-strings) |
 | [0443-string-compression](https://github.com/fenil010/Leetcode/tree/master/0443-string-compression) |
