@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/fenil010/Leetcode/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/fenil010/Leetcode/tree/master/0179-largest-number) |
+| [0217-contains-duplicate](https://github.com/fenil010/Leetcode/tree/master/0217-contains-duplicate) |
 | [0500-keyboard-row](https://github.com/fenil010/Leetcode/tree/master/0500-keyboard-row) |
 | [0661-image-smoother](https://github.com/fenil010/Leetcode/tree/master/0661-image-smoother) |
 | [0881-boats-to-save-people](https://github.com/fenil010/Leetcode/tree/master/0881-boats-to-save-people) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/fenil010/Leetcode/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/fenil010/Leetcode/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/fenil010/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/fenil010/Leetcode/tree/master/0242-valid-anagram) |
 | [0500-keyboard-row](https://github.com/fenil010/Leetcode/tree/master/0500-keyboard-row) |
 | [0890-find-and-replace-pattern](https://github.com/fenil010/Leetcode/tree/master/0890-find-and-replace-pattern) |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/fenil010/Leetcode/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/fenil010/Leetcode/tree/master/0179-largest-number) |
+| [0217-contains-duplicate](https://github.com/fenil010/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/fenil010/Leetcode/tree/master/0242-valid-anagram) |
 | [0881-boats-to-save-people](https://github.com/fenil010/Leetcode/tree/master/0881-boats-to-save-people) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/fenil010/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
