@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/fenil010/Leetcode/tree/master/0049-group-anagrams) |
+| [0119-pascals-triangle-ii](https://github.com/fenil010/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0179-largest-number](https://github.com/fenil010/Leetcode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/fenil010/Leetcode/tree/master/0217-contains-duplicate) |
 | [0500-keyboard-row](https://github.com/fenil010/Leetcode/tree/master/0500-keyboard-row) |
@@ -146,4 +147,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/fenil010/Leetcode/tree/master/0002-add-two-numbers) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0119-pascals-triangle-ii](https://github.com/fenil010/Leetcode/tree/master/0119-pascals-triangle-ii) |
 <!---LeetCode Topics End-->
