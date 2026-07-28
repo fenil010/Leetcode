@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/fenil010/Leetcode/tree/master/0011-container-with-most-water) |
 | [0049-group-anagrams](https://github.com/fenil010/Leetcode/tree/master/0049-group-anagrams) |
 | [0119-pascals-triangle-ii](https://github.com/fenil010/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0179-largest-number](https://github.com/fenil010/Leetcode/tree/master/0179-largest-number) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/fenil010/Leetcode/tree/master/0011-container-with-most-water) |
 | [0125-valid-palindrome](https://github.com/fenil010/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/fenil010/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/fenil010/Leetcode/tree/master/0344-reverse-string) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/fenil010/Leetcode/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/fenil010/Leetcode/tree/master/0179-largest-number) |
 | [0680-valid-palindrome-ii](https://github.com/fenil010/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/fenil010/Leetcode/tree/master/0881-boats-to-save-people) |
