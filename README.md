@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/fenil010/Leetcode/tree/master/0500-keyboard-row) |
 | [0628-maximum-product-of-three-numbers](https://github.com/fenil010/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0661-image-smoother](https://github.com/fenil010/Leetcode/tree/master/0661-image-smoother) |
+| [0877-stone-game](https://github.com/fenil010/Leetcode/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/fenil010/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0890-find-and-replace-pattern](https://github.com/fenil010/Leetcode/tree/master/0890-find-and-replace-pattern) |
 | [1260-shift-2d-grid](https://github.com/fenil010/Leetcode/tree/master/1260-shift-2d-grid) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/fenil010/Leetcode/tree/master/0009-palindrome-number) |
 | [0415-add-strings](https://github.com/fenil010/Leetcode/tree/master/0415-add-strings) |
 | [0628-maximum-product-of-three-numbers](https://github.com/fenil010/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/fenil010/Leetcode/tree/master/0877-stone-game) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/fenil010/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/fenil010/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2485-find-the-pivot-integer](https://github.com/fenil010/Leetcode/tree/master/2485-find-the-pivot-integer) |
@@ -166,8 +168,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0119-pascals-triangle-ii](https://github.com/fenil010/Leetcode/tree/master/0119-pascals-triangle-ii) |
+| [0877-stone-game](https://github.com/fenil010/Leetcode/tree/master/0877-stone-game) |
 ## Graph Theory
 |  |
 | ------- |
 | [3898-find-the-degree-of-each-vertex](https://github.com/fenil010/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/fenil010/Leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
