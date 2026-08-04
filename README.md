@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/fenil010/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3467-transform-array-by-parity](https://github.com/fenil010/Leetcode/tree/master/3467-transform-array-by-parity) |
 | [3668-restore-finishing-order](https://github.com/fenil010/Leetcode/tree/master/3668-restore-finishing-order) |
+| [3731-find-missing-elements](https://github.com/fenil010/Leetcode/tree/master/3731-find-missing-elements) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/fenil010/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Hash Table
 |  |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/fenil010/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/fenil010/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3668-restore-finishing-order](https://github.com/fenil010/Leetcode/tree/master/3668-restore-finishing-order) |
+| [3731-find-missing-elements](https://github.com/fenil010/Leetcode/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
 | ------- |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/fenil010/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3467-transform-array-by-parity](https://github.com/fenil010/Leetcode/tree/master/3467-transform-array-by-parity) |
 | [3536-maximum-product-of-two-digits](https://github.com/fenil010/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/fenil010/Leetcode/tree/master/3731-find-missing-elements) |
 ## String
 |  |
 | ------- |
