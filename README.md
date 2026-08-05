@@ -154,9 +154,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0415-add-strings](https://github.com/fenil010/Leetcode/tree/master/0415-add-strings) |
 | [1260-shift-2d-grid](https://github.com/fenil010/Leetcode/tree/master/1260-shift-2d-grid) |
+| [1603-design-parking-system](https://github.com/fenil010/Leetcode/tree/master/1603-design-parking-system) |
 ## Counting
 |  |
 | ------- |
+| [1603-design-parking-system](https://github.com/fenil010/Leetcode/tree/master/1603-design-parking-system) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/fenil010/Leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/fenil010/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3467-transform-array-by-parity](https://github.com/fenil010/Leetcode/tree/master/3467-transform-array-by-parity) |
@@ -181,4 +183,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/fenil010/Leetcode/tree/master/0877-stone-game) |
+## Design
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/fenil010/Leetcode/tree/master/1603-design-parking-system) |
 <!---LeetCode Topics End-->
