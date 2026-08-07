@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/fenil010/Leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/fenil010/Leetcode/tree/master/0009-palindrome-number) |
+| [0089-gray-code](https://github.com/fenil010/Leetcode/tree/master/0089-gray-code) |
 | [0415-add-strings](https://github.com/fenil010/Leetcode/tree/master/0415-add-strings) |
 | [0628-maximum-product-of-three-numbers](https://github.com/fenil010/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/fenil010/Leetcode/tree/master/0877-stone-game) |
@@ -192,4 +193,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/fenil010/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+## Backtracking
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/fenil010/Leetcode/tree/master/0089-gray-code) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/fenil010/Leetcode/tree/master/0089-gray-code) |
 <!---LeetCode Topics End-->
