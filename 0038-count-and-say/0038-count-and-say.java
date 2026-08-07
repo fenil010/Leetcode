@@ -1,27 +1,20 @@
 class Solution {
     public String countAndSay(int n) {
-        String s ="1";
-
-        for(int i =1;i<n;i++){
-            StringBuilder sb = new StringBuilder();
-            int j = 0;
-
-                while(j<s.length()){
-                    char digit = s.charAt(j);
-                    int count=0;
-
-                    while(j<s.length() && s.charAt(j)==digit){
-                        count++;
-                        j++;
-                    }
-
-                    sb.append(count);
-                    sb.append(digit);
+        String result = "1";
+        for (int k = 1; k < n; k++) {
+            StringBuilder next = new StringBuilder();
+            int i = 0;
+            while (i < result.length()) {
+                char digit = result.charAt(i);
+                int count = 0;
+                while (i < result.length() && result.charAt(i) == digit) {
+                    count++;
+                    i++;
                 }
-            s =sb.toString();
+                next.append(count).append(digit);
+            }
+            result = next.toString();
         }
-
-        return s;
-
+        return result;
     }
 }
