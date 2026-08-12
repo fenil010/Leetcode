@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/fenil010/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/fenil010/Leetcode/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/fenil010/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/fenil010/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/fenil010/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3467-transform-array-by-parity](https://github.com/fenil010/Leetcode/tree/master/3467-transform-array-by-parity) |
 | [3668-restore-finishing-order](https://github.com/fenil010/Leetcode/tree/master/3668-restore-finishing-order) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/fenil010/Leetcode/tree/master/0500-keyboard-row) |
 | [0890-find-and-replace-pattern](https://github.com/fenil010/Leetcode/tree/master/0890-find-and-replace-pattern) |
 | [2325-decode-the-message](https://github.com/fenil010/Leetcode/tree/master/2325-decode-the-message) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/fenil010/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/fenil010/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/fenil010/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3668-restore-finishing-order](https://github.com/fenil010/Leetcode/tree/master/3668-restore-finishing-order) |
@@ -201,4 +203,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/fenil010/Leetcode/tree/master/0089-gray-code) |
+## Sliding Window
+|  |
+| ------- |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/fenil010/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 <!---LeetCode Topics End-->
