@@ -1,13 +1,10 @@
 class Solution {
     public String convert(String s, int numRows) {
         if(numRows==1) return s;
-
-
         int n = s.length();
         int jumps = (numRows-1)*2;
 
         StringBuilder res = new StringBuilder();
-
 
         for(int i = 0 ;i<numRows;i++){
             int downJump=jumps-(2*i);
