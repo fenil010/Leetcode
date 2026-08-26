@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/fenil010/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/fenil010/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/fenil010/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/fenil010/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3668-restore-finishing-order](https://github.com/fenil010/Leetcode/tree/master/3668-restore-finishing-order) |
 | [3731-find-missing-elements](https://github.com/fenil010/Leetcode/tree/master/3731-find-missing-elements) |
 ## Math
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/fenil010/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2325-decode-the-message](https://github.com/fenil010/Leetcode/tree/master/2325-decode-the-message) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/fenil010/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/fenil010/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Matrix
 |  |
 | ------- |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1704-determine-if-string-halves-are-alike](https://github.com/fenil010/Leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/fenil010/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3467-transform-array-by-parity](https://github.com/fenil010/Leetcode/tree/master/3467-transform-array-by-parity) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/fenil010/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Linked List
 |  |
 | ------- |
