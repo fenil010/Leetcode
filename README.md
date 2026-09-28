@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/fenil010/Leetcode/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/fenil010/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0890-find-and-replace-pattern](https://github.com/fenil010/Leetcode/tree/master/0890-find-and-replace-pattern) |
+| [1095-find-in-mountain-array](https://github.com/fenil010/Leetcode/tree/master/1095-find-in-mountain-array) |
 | [1260-shift-2d-grid](https://github.com/fenil010/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/fenil010/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/fenil010/Leetcode/tree/master/1380-lucky-numbers-in-a-matrix) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/fenil010/Leetcode/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/fenil010/Leetcode/tree/master/0704-binary-search) |
+| [1095-find-in-mountain-array](https://github.com/fenil010/Leetcode/tree/master/1095-find-in-mountain-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/fenil010/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/fenil010/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
@@ -251,4 +253,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/fenil010/Leetcode/tree/master/0032-longest-valid-parentheses) |
+## Interactive
+|  |
+| ------- |
+| [1095-find-in-mountain-array](https://github.com/fenil010/Leetcode/tree/master/1095-find-in-mountain-array) |
+## Ternary Search
+|  |
+| ------- |
+| [1095-find-in-mountain-array](https://github.com/fenil010/Leetcode/tree/master/1095-find-in-mountain-array) |
 <!---LeetCode Topics End-->
