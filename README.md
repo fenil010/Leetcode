@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/fenil010/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0500-keyboard-row](https://github.com/fenil010/Leetcode/tree/master/0500-keyboard-row) |
 | [0890-find-and-replace-pattern](https://github.com/fenil010/Leetcode/tree/master/0890-find-and-replace-pattern) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/fenil010/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2325-decode-the-message](https://github.com/fenil010/Leetcode/tree/master/2325-decode-the-message) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/fenil010/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/fenil010/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/fenil010/Leetcode/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [1768-merge-strings-alternately](https://github.com/fenil010/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [1773-count-items-matching-a-rule](https://github.com/fenil010/Leetcode/tree/master/1773-count-items-matching-a-rule) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/fenil010/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/fenil010/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2325-decode-the-message](https://github.com/fenil010/Leetcode/tree/master/2325-decode-the-message) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/fenil010/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1603-design-parking-system](https://github.com/fenil010/Leetcode/tree/master/1603-design-parking-system) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/fenil010/Leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/fenil010/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/fenil010/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3467-transform-array-by-parity](https://github.com/fenil010/Leetcode/tree/master/3467-transform-array-by-parity) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/fenil010/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -252,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/fenil010/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/fenil010/Leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/fenil010/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/fenil010/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/fenil010/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Bracket Sequences
